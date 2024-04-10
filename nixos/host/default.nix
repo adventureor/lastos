@@ -5,5 +5,6 @@
     ./fonts
     ./nvidia
     ./pkgs
+    ./displaymanager
   ];
 }

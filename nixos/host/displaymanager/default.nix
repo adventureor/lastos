@@ -1,7 +1,7 @@
 {config, options, pkgs, ...}:
 {
   imports = [
-    #./environment.nix
+    ./environment.nix
   ];
   services.xserver.displayManager = {
     sddm.enable = true;

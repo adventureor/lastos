@@ -7,7 +7,7 @@
     ./rofi
     ./waybar
     ./zsh
-   # ./displaymanager
+    #./displaymanager
     #./input
   ];
 }

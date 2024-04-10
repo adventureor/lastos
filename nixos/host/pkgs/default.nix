@@ -8,8 +8,8 @@
     git
     kitty
     gcc
-    sddm
     grim
+    sddm
     slurp
     wl-clipboard
     mako

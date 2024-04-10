@@ -5,7 +5,6 @@
 { config, pkgs, lib, overlays, ... }:
 {
   services.xserver.dpi = 96;
-
   imports =
     [ # Include the results of the hardware scan.
       ./hardware-configuration.nix
